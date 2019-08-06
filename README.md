@@ -31,10 +31,6 @@ Response data:
 - <i>**p_id**</i> is the Identifier assigned by ubisoft to the player<br>
 - <i>**p_name**</i> is the current name of the player<br>
 - <i>**p_level**</i> is the current level of the player<br>
-- <i>**p_level**</i> is the current level of the player<br>
-- <i>**p_level**</i> is the current level of the player<br>
-- <i>**p_level**</i> is the current level of the player<br>
-- <i>**p_level**</i> is the current level of the player<br>
 - <i>**kd**</i> is the average Kill to Death ratio for the player<br>
 
 Note that <i>**p_user**</i> does not always match to <i>**p_id**</i> {p_user} can be used to grab the player avatar: `https://ubisoft-avatars.akamaized.net/p_user/default_146_146.png`
